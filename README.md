@@ -140,7 +140,7 @@ Neste projeto, minha responsabilidade ficou com a criação de algumas interface
 ##### Hard skills
 
 * Desenvolvimento em JAVA
-> Sei fazer ajuda.
+> Sei fazer com ajuda.
 
 * Banco de Dados - MySQL
 > Sei fazer com autonomia.
@@ -155,6 +155,155 @@ Neste projeto, minha responsabilidade ficou com a criação de algumas interface
 
 * Comunicação 
 > Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão das tarefas, alinhamentos e também com a colaboração mútua e assistência oferecida aos meus colegas.
+ 
+* Proatividade
+> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
+
+
+
+## Em 2022-2
+
+<Div align="justify" >
+
+> [Link para a API do 3º Semetre](https://github.com/DiasVitoria/API-3-Semestre)
+
+O projeto integrador desenvolvido no terceiro semestre do curso foi feito com a empresa parceira Embraer. O objetivo do projeto foi a criação de um site para que o usuário (piloto de avião) pudesse realizar uma análise do comprimento de pista requerida para o pouso de acordo com alguns parâmetros. Em função dos parâmetros passados, o piloto será capaz de calcular a distância necessária para pousar a aeronave.
+
+</Div>
+
+##### Tecnologias utilizadas
+ 
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
+  > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável.
+ 
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png"/> Github 
+  > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML 
+  > Utilizamos HTML em nosso projeto para a criação dos componentes das páginas web utilizados no React.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS 
+  > Utilizamos o CSS para estilizar, assim melhorando a apresentação visual dos componentes criadas com HTML.
+
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"> React
+  > Utilizamos o React no projeto devido à sua capacidade de criar interfaces de usuário interativas e reativas, desenvolvendo a aplicação web de forma mais eficiente e escalável, aproveitando a criação de componentes reutilizáveis para agilizar o desenvolvimento e melhorar a experiência do usuário.
+
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png"> TypeScript
+  > Utilizamos o TypeScript em nosso projeto devido à sua capacidade de adicionar tipagem estática ao JavaScript, o que torna o código mais seguro, legível e facilita a detecção de erros em tempo de compilação.
+
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png"> BootStrap
+  > Utilizamos o Bootstrap em nosso projeto devido à sua capacidade de acelerar o desenvolvimento de interfaces web responsivas.
+
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"> JavaScript
+  > Utilizamos o JavaScript para a realização dos cálculos no BackEnd.
+
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png"> NodeJS
+  > Utilizamos o Node.js em nosso projeto devido à sua capacidade de executar código JavaScript no servidor permitindo o desenvolvimento eficiente de aplicativos web em tempo real.
+
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169186.png"> ExpressJS
+  > Utilizamos o Express em nosso projeto devido à combinação de um servidor rápido e flexível com uma biblioteca de interface do usuário eficiente.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+
+##### Contribuições pessoais
+
+<Div align="justify" >
+
+Neste projeto contribuí com a construção das telas, interfaces da aplicação e seu desenvolvimento no front-end.
+
+</Div>
+
+##### Hard skills
+
+* Desenvolvimento WEB (Utilizando React, TypeScript, JavaScript HTML5 & CSS3)
+> Sei fazer com autonomia.
+
+* Desenvolvimento WEB (Utilizando BootStrap, NodeJS & ExpressJS)
+> Sei fazer com ajuda.
+
+* Controle de versionamento (GIT)  
+> Sei fazer com ajuda.
+
+##### Soft skills
+
+* Organização 
+> Adquirida por meio da ajuda com a separação das atividades realizadas por mim e pelo grupo, otimização do tempo dos estudos e das atividades realizadas.
+
+* Comunicação 
+> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões, com a divisão das tarefas, alinhamentos e também com a colaboração mútua e assistência oferecida aos meus colegas.
+ 
+* Proatividade
+> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
+
+## Em 2023-1
+
+<Div align="justify" >
+
+> [Link para a API do 4º Semetre](https://github.com/DiasVitoria/API-4-Semestre)
+
+Para o Projeto Integrado do quarto semestre do curso, colaboramos com a empresa parceira IonicHealth. O foco desse projeto foi o desenvolvimento de uma aplicação para a gestão de chamados internos. Esses chamados consistiam em solicitações para a implementação de novas funcionalidades ou correções de bugs em sistemas fornecidos a outras empresas. A particularidade desse sistema residia em sua capacidade de configurar a avaliação em várias etapas, permitindo aos administradores decidirem a aprovação ou reprovação das solicitações de forma automática em cada uma delas.
+
+</Div>
+
+##### Tecnologias utilizadas
+ 
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
+  > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável.
+ 
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png"/> Github 
+  > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML 
+  > Utilizamos HTML em nosso projeto para a criação dos componentes das páginas web utilizados no React.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS 
+  > Utilizamos o CSS para estilizar, assim melhorando a apresentação visual dos componentes criadas com HTML.
+
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"> React
+  > Utilizamos o React no projeto para a criação das interfaces de usuário.
+
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png"> TypeScript
+  > Utilizado para o desenvolvimento do backend.
+
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png"> NodeJS
+  > Utilizamos o Node.js em nosso projeto para executar código de ambas as partes do projeto (frontend e backend).
+
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_logo_icon_146389.png"> PostGreSQL
+  > Utilizado como banco de dados do projeto.
+
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/jira_logo_icon_147274.png"> Jira
+  > Utilizamos o Jira em nosso projeto para o gerenciamento de tarefas. 
+  
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+
+##### Contribuições pessoais
+
+<Div align="justify" >
+
+Nesse projeto eu atuei como Scrum Master (SM), ajudando a equipe com as dúvidas, levando-as ao PO e auxiliando na separação das atividades. Auxiliei no desenvolvimento de algumas atividades no front-end criando algumas telas e também o protótipo que foi apresentado ao cliente. 
+
+</Div>
+
+##### Hard skills
+
+* Desenvolvimento WEB (Utilizando React, TypeScript, PostGreSQL, HTML5 & CSS3)
+> Sei fazer com autonomia.
+
+* Desenvolvimento WEB (Utilizando Figma, NodeJS & ExpressJS)
+> Sei fazer com ajuda.
+
+* Controle de versionamento (GIT)  
+> Sei fazer com ajuda.
+
+##### Soft skills
+
+* Organização 
+> Adquirida por meio da ajuda nas atividades, tanto como a separação quanto a organização destas no Jira, e da otimização de tempo de atividades realizadas.
+
+* Comunicação 
+> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões, com a divisão das tarefas, alinhamentos, buscas por dúvidas e também com a colaboração mútua e assistência oferecida aos meus colegas.
  
 * Proatividade
 > Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
