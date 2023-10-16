@@ -54,8 +54,10 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
 
 </Div>
 
-##### Tecnologias utilizadas
- 
+### Tecnologias utilizadas
+
+ <details><summary>Tecnologias</summary>
+   
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
   > Utilizado para desenvolver o protótipo apresentado ao cliente.
   
@@ -77,7 +79,10 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python 
   > Utilizamos o Python para o 'web scraping' no site da Fatec, extraindo os links das informações das APIs passadas de todos os cursos.
 
-##### Contribuições pessoais
+ </details>
+ 
+
+### Contribuições pessoais
 
 <Div align="justify" >
 
@@ -85,7 +90,7 @@ Neste projeto fiquei responsável pela parte do Front-End, ou seja, na criação
 
 </Div>
 
-##### Hard skills
+### Hard skills
 
 * Desenvolvimento WEB (Utilizando HTML5 & CSS3)
 > Sei fazer com autonomia.
@@ -93,7 +98,7 @@ Neste projeto fiquei responsável pela parte do Front-End, ou seja, na criação
 * Controle de versionamento (GIT)  
 > Sei fazer com ajuda.
 
-##### Soft skills
+### Soft skills
 
 * Organização 
 > Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, otimizando o tempo dos estudos e das atividades realizadas, para que a entrega pudesse ser concluída.
@@ -105,7 +110,7 @@ Neste projeto fiquei responsável pela parte do Front-End, ou seja, na criação
 > Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
 
 
-### Em 2022-1
+## Em 2022-1
 
 <Div align="justify" >
 
@@ -115,7 +120,9 @@ O projeto integrador realizado durante o segundo semestre do curso foi desenvolv
 
 </Div>
 
-##### Tecnologias utilizadas
+### Tecnologias utilizadas
+
+<details><summary>Tecnologias</summary>
  
   <img width="50 rem" src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png"/> Github 
   > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
@@ -127,9 +134,11 @@ O projeto integrador realizado durante o segundo semestre do curso foi desenvolv
   > Utilizamos como banco de dados do nosso projeto para o armazenamento das informações.
  
   <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/azure_devops_logo_icon_145466.png"/> DevOps
-  > Utilizamos para a organização e separação das atividades e também para a criação automática do nosso burndown. 
+  > Utilizamos para a organização e separação das atividades e também para a criação automática do nosso burndown.
 
-##### Contribuições pessoais
+</details>
+
+### Contribuições pessoais
 
 <Div align="justify" >
 
@@ -137,7 +146,7 @@ Neste projeto, minha responsabilidade ficou com a criação de algumas interface
 
 </Div>
 
-##### Hard skills
+### Hard skills
 
 * Desenvolvimento em JAVA
 > Sei fazer com ajuda.
@@ -148,7 +157,7 @@ Neste projeto, minha responsabilidade ficou com a criação de algumas interface
 * Controle de versionamento (GIT)  
 > Sei fazer com ajuda.
 
-##### Soft skills
+### Soft skills
 
 * Organização 
 > Adquirida por meio da ajuda com a separação das atividades realizadas por mim e pelo grupo e colocadas no DevOps, otimização do tempo dos estudos e das atividades realizadas.
@@ -158,8 +167,6 @@ Neste projeto, minha responsabilidade ficou com a criação de algumas interface
  
 * Proatividade
 > Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
-
-
 
 ## Em 2022-2
 
@@ -171,7 +178,9 @@ O projeto integrador desenvolvido no terceiro semestre do curso foi feito com a 
 
 </Div>
 
-##### Tecnologias utilizadas
+### Tecnologias utilizadas
+
+<details><summary>Tecnologias</summary>
  
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
   > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável.
@@ -206,7 +215,9 @@ O projeto integrador desenvolvido no terceiro semestre do curso foi feito com a 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
   > Utilizado para desenvolver o protótipo apresentado ao cliente.
 
-##### Contribuições pessoais
+</details>
+
+### Contribuições pessoais
 
 <Div align="justify" >
 
@@ -214,7 +225,7 @@ Neste projeto contribuí com a construção das telas, interfaces da aplicação
 
 </Div>
 
-##### Hard skills
+### Hard skills
 
 * Desenvolvimento WEB (Utilizando React, TypeScript, JavaScript HTML5 & CSS3)
 > Sei fazer com autonomia.
@@ -225,7 +236,7 @@ Neste projeto contribuí com a construção das telas, interfaces da aplicação
 * Controle de versionamento (GIT)  
 > Sei fazer com ajuda.
 
-##### Soft skills
+### Soft skills
 
 * Organização 
 > Adquirida por meio da ajuda com a separação das atividades realizadas por mim e pelo grupo, otimização do tempo dos estudos e das atividades realizadas.
@@ -246,7 +257,9 @@ Para o Projeto Integrado do quarto semestre do curso, colaboramos com a empresa 
 
 </Div>
 
-##### Tecnologias utilizadas
+### Tecnologias utilizadas
+
+<details><summary>Tecnologias</summary>
  
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
   > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável.
@@ -278,7 +291,9 @@ Para o Projeto Integrado do quarto semestre do curso, colaboramos com a empresa 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
   > Utilizado para desenvolver o protótipo apresentado ao cliente.
 
-##### Contribuições pessoais
+</details>
+
+### Contribuições pessoais
 
 <Div align="justify" >
 
@@ -286,7 +301,7 @@ Nesse projeto eu atuei como Scrum Master (SM), ajudando a equipe com as dúvidas
 
 </Div>
 
-##### Hard skills
+### Hard skills
 
 * Desenvolvimento WEB (Utilizando React, TypeScript, PostGreSQL, HTML5 & CSS3)
 > Sei fazer com autonomia.
@@ -297,7 +312,7 @@ Nesse projeto eu atuei como Scrum Master (SM), ajudando a equipe com as dúvidas
 * Controle de versionamento (GIT)  
 > Sei fazer com ajuda.
 
-##### Soft skills
+### Soft skills
 
 * Organização 
 > Adquirida por meio da ajuda nas atividades, tanto como a separação quanto a organização destas no Jira, e da otimização de tempo de atividades realizadas.
