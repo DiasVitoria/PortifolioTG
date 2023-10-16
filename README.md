@@ -37,7 +37,7 @@ Alguns dos cursos realizados e certificados.
 |   Curso  |  Plataforma  |   Status    |
 | :---   | :---    | :---      |
 | Laboratório de POO Parte 1 |  ![USP](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)  | Concluído |
-| Introduction to MongoDB | ![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |  Em andamento |
+| Introduction to MongoDB | ![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |  Concluído |
 | MongoDB Node.js Developer Path | ![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |  Em andamento |
 
 ## Projetos
@@ -55,16 +55,27 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
 </Div>
 
 ##### Tecnologias utilizadas
-
-<div align="center">  
+ 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+  
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
+  > Utilizado para o desenvolvimento do código de todo o projeto.
+
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML 
+  > Utilizamos HTML em nosso projeto para a criação da estrutura das páginas web para apresentação do conteúdo extraído do site da Fatec (APIs passadas) que era nosso principal objetivo.
+
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS 
+  > Utilizamos o CSS para estilizar, assim melhorando a apresentação visual de nossas páginas criadas com HTML. Com o CSS, conseguimos controlar cores, fontes e layout.
+  
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
+  > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável.
+
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
+  > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
+
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python 
-</div>
+  > Utilizamos o Python para o 'web scraping' no site da Fatec, extraindo os links das informações das APIs passadas de todos os cursos.
 
 ##### Contribuições pessoais
 
@@ -76,12 +87,76 @@ Neste projeto fiquei responsável pela parte do Front-End, ou seja, na criação
 
 ##### Hard skills
 
-* Desenvolvimento WEB (Utilizando HTML5 & CSS3) 
+* Desenvolvimento WEB (Utilizando HTML5 & CSS3)
+> Sei fazer com autonomia.
+
 * Controle de versionamento (GIT)  
+> Sei fazer com ajuda.
 
 ##### Soft skills
 
-* Organização - Organização do projeto e das atividades realizadas
-* Comunicação - Participação em reuniões e alinhamentos com o time
-* Proatividade - Busca constante de maior envolvimento no desenvolvimento do projeto
+* Organização 
+> Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, otimizando o tempo dos estudos e das atividades realizadas, para que a entrega pudesse ser concluída.
+
+* Comunicação 
+> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e também com a colaboração mútua e assistência oferecida aos meus colegas.
+ 
+* Proatividade
+> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
+
+
+### Em 2022-1
+
+<Div align="justify" >
+
+> [Link para a API do 2º Semetre](https://github.com/DiasVitoria/API-2-Semestre)
+
+O projeto integrador realizado durante o segundo semestre do curso foi desenvolvido em colaboração com a empresa parceira Pro4Tech. O objetivo central desse projeto era criar uma aplicação de desktop em JAVA, com o propósito de aprimorar a comunicação da empresa com seus clientes, possibilitando a inclusão de mensagens recebidas de diferentes plataformas para manter um histórico de cada interação.
+
+</Div>
+
+##### Tecnologias utilizadas
+ 
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png"/> Github 
+  > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> Java
+  > Utilizamos como tecnologia central do projeto para o desenvolvimento das interfaces e da conexão com o banco de dados.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> MySQL
+  > Utilizamos como banco de dados do nosso projeto para o armazenamento das informações.
+ 
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/azure_devops_logo_icon_145466.png"/> DevOps
+  > Utilizamos para a organização e separação das atividades e também para a criação automática do nosso burndown. 
+
+##### Contribuições pessoais
+
+<Div align="justify" >
+
+Neste projeto, minha responsabilidade ficou com a criação de algumas interfaces e com parte do desenvolvimento do backend. Isso incluí a implementação de alguns CRUDs e a de navegação entre as diferentes interfaces do projeto.
+
+</Div>
+
+##### Hard skills
+
+* Desenvolvimento em JAVA
+> Sei fazer ajuda.
+
+* Banco de Dados - MySQL
+> Sei fazer com autonomia.
+
+* Controle de versionamento (GIT)  
+> Sei fazer com ajuda.
+
+##### Soft skills
+
+* Organização 
+> Adquirida por meio da ajuda com a separação das atividades realizadas por mim e pelo grupo e colocadas no DevOps, otimização do tempo dos estudos e das atividades realizadas.
+
+* Comunicação 
+> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão das tarefas, alinhamentos e também com a colaboração mútua e assistência oferecida aos meus colegas.
+ 
+* Proatividade
+> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
+
 
