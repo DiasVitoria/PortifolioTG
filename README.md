@@ -86,7 +86,7 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
 
 <Div align="justify" >
 
-Neste projeto fiquei responsável pela parte do Front-End, ou seja, na criação do site para a exibição dos links dos repositórios raspados e clonados utilizando HTML5 e CSS3, e também na parte de documentação do ReadMe do GitHub.
+Neste projeto fiquei responsável pela parte do Front-End, ou seja, na criação do site para a exibição dos links dos repositórios raspados e clonados e da página home do site utilizando HTML5 e CSS3, e também na parte de documentação do ReadMe do GitHub.
 
 </Div>
 
@@ -108,6 +108,9 @@ Neste projeto fiquei responsável pela parte do Front-End, ou seja, na criação
  
 * Proatividade
 > Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
+
+* Trabalho em equipe
+> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
 
 
 ## Em 2022-1
@@ -142,7 +145,7 @@ O projeto integrador realizado durante o segundo semestre do curso foi desenvolv
 
 <Div align="justify" >
 
-Neste projeto, minha responsabilidade ficou com a criação de algumas interfaces e com parte do desenvolvimento do backend. Isso incluí a implementação de alguns CRUDs e a de navegação entre as diferentes interfaces do projeto.
+Neste projeto, minha responsabilidade abrangeu a criação de interfaces e a contribuição para o desenvolvimento do backend. Isso incluiu a implementação de várias operações de cadastro como a edição e exclusão de colaboradores, clientes e projetos. Além disso, participei ativamente na criação da interface para listar e cadastrar mensagens que possibilitavam a comunicação entre os clientes e a empresa. Também desempenhei um papel fundamental na concepção da estrutura do banco de dados, que é essencial para armazenar todos os dados do sistema. Colaborei estreitamente com meus colegas, compartilhando ideias e conhecimentos, a fim de garantir o sucesso e a eficácia do projeto.
 
 </Div>
 
@@ -159,14 +162,13 @@ Neste projeto, minha responsabilidade ficou com a criação de algumas interface
 
 ### Soft skills
 
-* Organização 
-> Adquirida por meio da ajuda com a separação das atividades realizadas por mim e pelo grupo e colocadas no DevOps, otimização do tempo dos estudos e das atividades realizadas.
+Além das citadas acima:
 
-* Comunicação 
-> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão das tarefas, alinhamentos e também com a colaboração mútua e assistência oferecida aos meus colegas.
- 
-* Proatividade
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
+* Empatia
+> Adquirida por meio da capacidade de compreender e se colocar no lugar dos meus colegas, tendo em consideração que por conta do meu técnico anterior em Desenvolvimento de Sistemas eu tive um breve conhecimento e prática em Java podendo auxiliar com o meu pouco conhecimento para o crescimento do grupo e do projeto.
+
+* Pensamento crítico
+> Adquirida por meio da capacidade de analisar informações, tomando decisões e resolvendo os problemas do nosso projeto de maneira lógica.
 
 ## Em 2022-2
 
@@ -221,7 +223,7 @@ O projeto integrador desenvolvido no terceiro semestre do curso foi feito com a 
 
 <Div align="justify" >
 
-Neste projeto contribuí com a construção das telas, interfaces da aplicação e seu desenvolvimento no front-end.
+Neste projeto, desempenhei um papel significativo na criação das interfaces relacionadas ao cálculo do pouso de aeronaves. Estas interfaces permitem que os pilotos introduzam informações críticas sobre suas aeronaves, como o modelo, o tipo de motor, o peso, entre outros dados relevantes. A partir dessas informações, é executado um cálculo que determinava a distância necessária para uma aterrissagem segura. Além disso, também colaborei na criação da interface de cadastro de novos usuários, especificamente pilotos, e na exibição dos perfis desses usuários na listagem. E também contribuí para a criação da interface de cadastro de modelos de aeronaves.
 
 </Div>
 
@@ -238,14 +240,13 @@ Neste projeto contribuí com a construção das telas, interfaces da aplicação
 
 ### Soft skills
 
-* Organização 
-> Adquirida por meio da ajuda com a separação das atividades realizadas por mim e pelo grupo, otimização do tempo dos estudos e das atividades realizadas.
+Além das citadas acima:
 
-* Comunicação 
-> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões, com a divisão das tarefas, alinhamentos e também com a colaboração mútua e assistência oferecida aos meus colegas.
- 
-* Proatividade
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
+* Gerenciamento do tempo
+> Adquirida meio da organização e gestão eficiente do tempo, dando prioridade às tarefas e garantindo o cumprimento dos prazos. Isso se tornou ainda mais importante devido ao fato de que a tecnologia utilizada era nova para mim, e o tema abordado no projeto era específico e pouco explorado, exigindo uma dedicação adicional para pesquisa e estudo, além da execução do próprio projeto.
+
+* Adaptabilidade
+> Adquirida por meio da capacidade de me ajustar às novas situações e mudanças juntamente com o desafio de me adaptar à uma nova tecnologia e a um tema um pouco mais complexo.
 
 ## Em 2023-1
 
@@ -297,7 +298,7 @@ Para o Projeto Integrado do quarto semestre do curso, colaboramos com a empresa 
 
 <Div align="justify" >
 
-Nesse projeto eu atuei como Scrum Master (SM), ajudando a equipe com as dúvidas, levando-as ao PO e auxiliando na separação das atividades. Auxiliei no desenvolvimento de algumas atividades no front-end criando algumas telas e também o protótipo que foi apresentado ao cliente. 
+Neste projeto, desempenhei o papel de Scrum Master (SM) com a responsabilidade de apoiar ativamente a equipe, facilitando a resolução de dúvidas, atuando como um canal de comunicação eficaz com o Product Owner (PO) e auxiliando na divisão de tarefas e responsabilidades. Uma de minhas contribuições significativas foi na fase inicial do projeto, na criação de um protótipo, que foi apresentado ao cliente para validação do sistema. Além disso, participei ativamente no desenvolvimento da interface de criação e implementação de abertura de chamados (sejam eles Hotfixes ou Features), bem como a criação de funcionalidades para a listagem e o cadastro de usuários e também as telas de análise e alinhamento de requisitos.
 
 </Div>
 
@@ -314,13 +315,15 @@ Nesse projeto eu atuei como Scrum Master (SM), ajudando a equipe com as dúvidas
 
 ### Soft skills
 
-* Organização 
-> Adquirida por meio da ajuda nas atividades, tanto como a separação quanto a organização destas no Jira, e da otimização de tempo de atividades realizadas.
+Além das citadas acima: 
 
-* Comunicação 
-> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões, com a divisão das tarefas, alinhamentos, buscas por dúvidas e também com a colaboração mútua e assistência oferecida aos meus colegas.
- 
-* Proatividade
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
+* Resolução de Conflitos
+> Adquirida por meio da habilidade de lidar com conflitos de forma construtiva, encontrando soluções para promover a harmonia entre o nosso grupo.
+
+* Inteligência emocional
+> Adquirida por meio da capacidade de reconhecer e controlar minhas próprias emoções e entender as emoções dos meus colegas de equipe.
+
+* Liderança
+> Adquirida por meio da motivação e orientação dos meus companheiros de equipe em direção a realização deste projeto.
 
 
