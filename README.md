@@ -326,4 +326,66 @@ Além das citadas acima:
 * Liderança
 > Adquirida por meio da motivação e orientação dos meus companheiros de equipe em direção a realização deste projeto.
 
+## Em 2023-2
+
+<Div align="justify" >
+
+> [Link para a API do 5º Semetre](https://github.com/DiasVitoria/API-5-Semestre)
+
+O projeto integrador desenvolvido no quinto semestre do curso foi feito com a empresa parceira Imagem. O objetivo do projeto foi o desenvolvimento de uma aplicativo mobile para o gerenciamento de equipamentos o tipo eletrônico, saneamento, telecomunicações, etc. Esse gerenciamento consiste de, além de cadastros, a realização de manobras nos equipamentos, que é a ação de controlar o status do equipamento entre 'ativo' e 'inativo'. Além disso o sistema cumpre requisitos de exibição de equipamentos em mapa e também cadastro completo de usuários.
+
+</Div>
+
+### Tecnologias utilizadas
+
+<details><summary>Tecnologias</summary>
+ 
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"> JavaScript
+  > Utilizamos o JavaScript para o desenvolvimento do frontend.
+
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png"> TypeScript
+  > Utilizado para o desenvolvimento do backend.
+
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"> React Native
+  > Utilizamos o React Native como framework para o desenvolvimento do aplicativo mobile.
+
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png"> NodeJS
+  > Utilizamos o Node.js em nosso projeto como runtime para o desenvolvimento de ambas as partes do projeto (frontend e backend).
+
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png"> MongoDB
+  > Utilizamos o MongoDB como banco de dados do projeto.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
+  > Utilizamos o Git para versionamento e armazenamento do código e documentação.
+
+</details>
+
+### Contribuições pessoais
+
+<Div align="justify" >
+
+Nesse projeto eu atuei como desenvolvedora Front-End. Atuei no desenvolvimento de algumas partes do sistema, como, a componentes e a tela principal onde é listado os equipamentos cadastrados, a interface de alteração destes equipamentos, a interface de autenticação ao tentar recuperar sua senha e também das telas de cadastro, visualização e edição de usuários.  
+
+</Div>
+
+### Hard skills
+
+* Desenvolvimento Mobile (Utilizando React Native, TypeScript)
+> Sei fazer com autonomia.
+
+* Desenvolvimento WEB Mobile(Utilizando MongoDB, NodeJS)
+> Sei fazer com ajuda.
+
+* Controle de versionamento (GIT)  
+> Sei fazer com ajuda.
+
+### Soft skills
+
+Além das citadas acima: 
+
+* Autoaprendizagem
+> Adquirida por meio da capacidade de aprender mais sobre o funcionamento do React Native, principalmente sobre seus componentes nativos e outras questões referentes ao seu funcionamento.
+
+
+
 
