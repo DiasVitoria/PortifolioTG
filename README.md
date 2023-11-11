@@ -36,7 +36,7 @@ Alguns dos cursos realizados e certificados.
 
 |   Curso  |  Plataforma  |   Status    |
 | :---   | :---    | :---      |
-| Laboratório de POO Parte 1 |  ![USP](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)  | Concluído |
+| Laboratório de Programação Orientada a Objetos |  ![USP](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)  | Concluído |
 | Introduction to MongoDB | ![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |  Concluído |
 | MongoDB Node.js Developer Path | ![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |  Concluído |
 
@@ -145,7 +145,7 @@ O projeto integrador realizado durante o segundo semestre do curso foi desenvolv
 
 <Div align="justify" >
 
-Neste projeto, minha responsabilidade abrangeu a criação de interfaces e a contribuição para o desenvolvimento do backend. Isso incluiu a implementação de várias operações de cadastro como a edição e exclusão de colaboradores, clientes e projetos. Além disso, participei ativamente na criação da interface para listar e cadastrar mensagens que possibilitavam a comunicação entre os clientes e a empresa. Também desempenhei um papel fundamental na concepção da estrutura do banco de dados, que é essencial para armazenar todos os dados do sistema. Colaborei estreitamente com meus colegas, compartilhando ideias e conhecimentos, a fim de garantir o sucesso e a eficácia do projeto.
+Neste projeto, minha responsabilidade abrangeu a criação de interfaces e a contribuição para o desenvolvimento do backend. Isso incluiu a implementação de várias operações de cadastro como a edição e exclusão de colaboradores, clientes e projetos. Além disso, participei na criação da interface para listar e cadastrar mensagens que possibilitavam a comunicação entre os clientes e a empresa. Também desempenhei um papel na criação da modelagem dos dados, que é essencial para armazenar todos os dados do sistema. Colaborei com meus colegas, compartilhando ideias e conhecimentos, a fim de garantir o sucesso e a eficácia do projeto.
 
 </Div>
 
@@ -223,7 +223,7 @@ O projeto integrador desenvolvido no terceiro semestre do curso foi feito com a 
 
 <Div align="justify" >
 
-Neste projeto, desempenhei um papel significativo na criação das interfaces relacionadas ao cálculo do pouso de aeronaves. Estas interfaces permitem que os pilotos introduzam informações críticas sobre suas aeronaves, como o modelo, o tipo de motor, o peso, entre outros dados relevantes. A partir dessas informações, é executado um cálculo que determinava a distância necessária para uma aterrissagem segura. Além disso, também colaborei na criação da interface de cadastro de novos usuários, especificamente pilotos, e na exibição dos perfis desses usuários na listagem. E também contribuí para a criação da interface de cadastro de modelos de aeronaves.
+Neste projeto, desempenhei um papel na criação das interfaces relacionadas ao cálculo do pouso de aeronaves. Estas interfaces permitem que os pilotos introduzam informações críticas sobre suas aeronaves, como o modelo, o tipo de motor, o peso, entre outros dados relevantes. A partir dessas informações, é executado um cálculo que determinava a distância necessária para uma aterrissagem segura. Além disso, também colaborei na criação da interface de cadastro de novos usuários, especificamente pilotos, e na exibição dos perfis desses usuários na listagem. E também contribuí para a criação da interface de cadastro de modelos de aeronaves.
 
 </Div>
 
@@ -298,7 +298,7 @@ Para o Projeto Integrado do quarto semestre do curso, colaboramos com a empresa 
 
 <Div align="justify" >
 
-Neste projeto, desempenhei o papel de Scrum Master (SM) com a responsabilidade de apoiar ativamente a equipe, facilitando a resolução de dúvidas, atuando como um canal de comunicação eficaz com o Product Owner (PO) e auxiliando na divisão de tarefas e responsabilidades. Uma de minhas contribuições significativas foi na fase inicial do projeto, na criação de um protótipo, que foi apresentado ao cliente para validação do sistema. Além disso, participei ativamente no desenvolvimento da interface de criação e implementação de abertura de chamados (sejam eles Hotfixes ou Features), bem como a criação de funcionalidades para a listagem e o cadastro de usuários e também as telas de análise e alinhamento de requisitos.
+Neste projeto, desempenhei o papel de Scrum Master (SM) com a responsabilidade de apoiar a equipe, facilitando a resolução de dúvidas, atuando como um canal de comunicação com o Product Owner (PO) e auxiliando na divisão de tarefas e responsabilidades. Uma de minhas contribuições foi na fase inicial do projeto, na criação de um protótipo, que foi apresentado ao cliente para validação do sistema. Além disso, participei no desenvolvimento da interface de criação e implementação de abertura de chamados (sejam eles Hotfixes ou Features), bem como a criação de funcionalidades para a listagem e o cadastro de usuários e também as telas de análise e alinhamento de requisitos.
 
 </Div>
 
@@ -332,7 +332,7 @@ Além das citadas acima:
 
 > [Link para a API do 5º Semetre](https://github.com/DiasVitoria/API-5-Semestre)
 
-O projeto integrador desenvolvido no quinto semestre do curso foi feito com a empresa parceira Imagem. O objetivo do projeto foi o desenvolvimento de uma aplicativo mobile para o gerenciamento de equipamentos o tipo eletrônico, saneamento, telecomunicações, etc. Esse gerenciamento consiste de, além de cadastros, a realização de manobras nos equipamentos, que é a ação de controlar o status do equipamento entre 'ativo' e 'inativo'. Além disso o sistema cumpre requisitos de exibição de equipamentos em mapa e também cadastro completo de usuários.
+O projeto integrador desenvolvido no quinto semestre do curso foi feito com a empresa parceira Imagem. O objetivo do projeto foi o desenvolvimento de uma aplicativo mobile para o gerenciamento de equipamentos eletrônico, de saneamento, de telecomunicações, etc. Esse gerenciamento consiste de, além de cadastros, a realização de manobras nos equipamentos, que é a ação de controlar o status do equipamento entre 'ativo' e 'inativo'. Além disso o sistema cumpre requisitos de exibição de equipamentos em mapa e também cadastro completo de usuários.
 
 </Div>
 
