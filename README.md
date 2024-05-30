@@ -44,7 +44,7 @@ Alguns dos cursos realizados e certificados.
 
 </Div>
 
-### Em 2021-2
+### Em 2021-2 - Projeto Integrador do 1º Semestre
 
 <Div align="justify" >
 
@@ -113,7 +113,7 @@ Neste projeto fiquei responsável pela parte do Front-End, ou seja, na criação
 > Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
 
 
-## Em 2022-1
+## Em 2022-1 - Projeto Integrador do 2º Semestre
 
 <Div align="justify" >
 
@@ -170,7 +170,7 @@ Além das citadas acima:
 * Pensamento crítico
 > Adquirida por meio da capacidade de analisar informações, tomando decisões e resolvendo os problemas do nosso projeto de maneira lógica.
 
-## Em 2022-2
+## Em 2022-2 - Projeto Integrador do 3º Semestre
 
 <Div align="justify" >
 
@@ -248,7 +248,7 @@ Além das citadas acima:
 * Adaptabilidade
 > Adquirida por meio da capacidade de me ajustar às novas situações e mudanças juntamente com o desafio de me adaptar à uma nova tecnologia e a um tema um pouco mais complexo.
 
-## Em 2023-1
+## Em 2023-1 - Projeto Integrador do 4º Semestre
 
 <Div align="justify" >
 
@@ -326,7 +326,7 @@ Além das citadas acima:
 * Liderança
 > Adquirida por meio da motivação e orientação dos meus companheiros de equipe em direção a realização deste projeto.
 
-## Em 2023-2
+## Em 2023-2 - Projeto Integrador do 5º Semestre
 
 <Div align="justify" >
 
@@ -385,6 +385,89 @@ Além das citadas acima:
 
 * Autoaprendizagem
 > Adquirida por meio da capacidade de aprender mais sobre o funcionamento do React Native, principalmente sobre seus componentes nativos e outras questões referentes ao seu funcionamento.
+
+## Em 2024-1 - Projeto Integrador do 6º Semestre
+
+<Div align="justify" >
+
+> [Link para a API do 6º Semetre](https://github.com/DiasVitoria/ProjetoIA)
+
+No sexto semestre, o prjeto a ser desenvolvido foi em parceria com a empresa Altave, localizada em São José dos Campos. O objetivo deste projeto foi criar uma inteligência artificial (IA) capaz de monitorar o fluxo de entrada e saída de pessoas em uma área restrita (Redzone) e gerar relatórios a partir desses dados para os gerentes e seguranças. Além da IA, o sistema inclui um site com funcionalidades de cadastro de usuários e seus respectivos níveis de acesso, cadastro de áreas e redzones, bem como dashboards e a exportação de dados para análise.
+
+</Div>
+
+### Tecnologias utilizadas
+
+<details><summary>Tecnologias</summary>
+ 
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png"> Java
+  > Utilizamos para o desenvolvimento do backend.
+
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png"> TypeScript
+  > Utilizamos para o desenvolvimento do frontend.
+
+  <img width="50 rem" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"> Spring
+  > Utilizamos como framework para o desenvolvimento do backend.
+
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png"> NodeJS
+  > Utilizamos como runtime para o desenvolvimento.
+
+  <img width="50 rem" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png"> Vue
+  > Utilizamos o vue como framework para o desenvolvimento do frontend.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python 
+  > Utilizamos para o desenvolvimento da IA.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> MySQL
+  > Utilizamos como banco de dados do nosso projeto para o armazenamento das informações.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
+  > Utilizamos o Git para versionamento e armazenamento do código e documentação.
+
+ <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+
+</details>
+
+### Contribuições pessoais
+
+<Div align="justify" >
+
+Nesse projeto eu atuei como Product Owner (PO) e também desenvolvedora. Então, além de gerenciar e priorizar o backlog total e as sprints, também participei do desenvolvimento do sistema, atuando tanto na parte visual do sistema como no back-end. 
+
+</Div>
+
+### Hard skills
+
+* Desenvolvimento com Spring Boot (Spring Boot)
+> Sei fazer com autonomia.
+
+* Desenvolvimento com VueJS (Typescript)
+> Sei fazer com autonomia.
+
+* Desenvolvimento em Python
+> Sei fazer com pesquisa
+
+* Banco de Dados - MySQL
+> Sei fazer com autonomia
+
+* Controle de versionamento (GIT)  
+> Sei fazer com ajuda.
+
+### Soft skills
+
+Além das citadas acima: 
+
+* Organização
+> Adquirida por meio da capacidade de manter o backlog e as sprints organizadas e priorizadas, garantindo que o trabalho mais importante esteja sempre sendo abordado.
+
+* Pensamento Estratégico
+> Adquirido por meio da capacidade de ver o quadro geral e planejar a longo prazo, alinhando as metas do produto com os objetivos de negócios.
+
+* Comunicação Eficaz
+> Adquirida por meio da capacidade de transmitir informações de forma clara e concisa, tanto verbalmente quanto por escrito.
+
+
 
 
 
