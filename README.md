@@ -392,7 +392,7 @@ Além das citadas acima:
 
 > [Link para a API do 6º Semetre](https://github.com/DiasVitoria/ProjetoIA)
 
-No sexto semestre, o prjeto a ser desenvolvido foi em parceria com a empresa Altave, localizada em São José dos Campos. O objetivo deste projeto foi criar uma inteligência artificial (IA) capaz de monitorar o fluxo de entrada e saída de pessoas em uma área restrita (Redzone) e gerar relatórios a partir desses dados para os gerentes e seguranças. Além da IA, o sistema inclui um site com funcionalidades de cadastro de usuários e seus respectivos níveis de acesso, cadastro de áreas e redzones, bem como dashboards e a exportação de dados para análise.
+No sexto semestre, o projeto a ser desenvolvido foi em parceria com a empresa Altave, localizada em São José dos Campos. O objetivo deste projeto foi criar uma inteligência artificial (IA) capaz de monitorar o fluxo de entrada e saída de pessoas em uma área restrita (Redzone) e gerar relatórios a partir desses dados para os gerentes e seguranças. Além da IA, o sistema inclui um site com funcionalidades de cadastro de usuários e seus respectivos níveis de acesso, cadastro de áreas e redzones, bem como dashboards e a exportação de dados para análise.
 
 </Div>
 
